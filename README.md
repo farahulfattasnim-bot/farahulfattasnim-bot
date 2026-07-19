@@ -89,6 +89,7 @@ Alongside my laboratory training, I am actively strengthening my knowledge of bi
 - Programming for Life Sciences (Linux, R & Python)
 - In Silico Research & Scientific Computing
  
-🎯 Research Aspirations 
+## 🎯 Research Aspirations
+
 I aspire to build a research career focused on molecular biology, antimicrobial peptide discovery, microbial biotechnology, and precision medicine. My long-term objective is to pursue advanced studies, contribute to high-impact scientific research, and collaborate with researchers across the globe to address important biological and medical challenges.
 
